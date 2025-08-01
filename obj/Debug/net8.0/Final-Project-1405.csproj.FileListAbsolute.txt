@@ -1,0 +1,15 @@
+C:\Users\12424\my-code-dir\Final-Project-1405\bin\Debug\net8.0\Final-Project-1405.exe
+C:\Users\12424\my-code-dir\Final-Project-1405\bin\Debug\net8.0\Final-Project-1405.deps.json
+C:\Users\12424\my-code-dir\Final-Project-1405\bin\Debug\net8.0\Final-Project-1405.runtimeconfig.json
+C:\Users\12424\my-code-dir\Final-Project-1405\bin\Debug\net8.0\Final-Project-1405.dll
+C:\Users\12424\my-code-dir\Final-Project-1405\bin\Debug\net8.0\Final-Project-1405.pdb
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\Final-Project-1405.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\Final-Project-1405.AssemblyInfoInputs.cache
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\Final-Project-1405.AssemblyInfo.cs
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\Final-Project-1405.csproj.CoreCompileInputs.cache
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\Final-Project-1405.sourcelink.json
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\Final-Project-1405.dll
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\refint\Final-Project-1405.dll
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\Final-Project-1405.pdb
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\Final-Project-1405.genruntimeconfig.cache
+C:\Users\12424\my-code-dir\Final-Project-1405\obj\Debug\net8.0\ref\Final-Project-1405.dll
